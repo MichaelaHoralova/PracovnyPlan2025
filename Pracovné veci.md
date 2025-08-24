@@ -21,6 +21,7 @@
 > ###### **Tematické plány**
 - [ ] Zistiť, ktoré mám robiť
 - [ ] xxxx
+- [ ] ssss
 
 
 
