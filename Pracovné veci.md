@@ -22,6 +22,7 @@
 - [ ] Zistiť, ktoré mám robiť
 - [ ] xxxx
 - [ ] ssss
+- [ ] ddd
 
 
 
