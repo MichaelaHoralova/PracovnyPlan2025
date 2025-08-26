@@ -10,7 +10,7 @@
 > [!Termín 22.8.2025]
 > ###### **ŠkVP**
 
-- [ ] **ŠkVP IST Programovanie**   
+- [x] **ŠkVP IST Programovanie**   
 - [x] *ŠkVP IT Programovanie*[^1] 
 - [x] *ŠkVP IT databázy*[^2] 
 
@@ -19,10 +19,17 @@
 
 > [!Termín 27.8.2025]
 > ###### **Tematické plány**
-- [ ] Zistiť, ktoré mám robiť
-- [ ] xxxx
-- [ ] ssss
-- [ ] ddd
+- [x] Zistiť, ktoré mám robiť - tematické plány súvisia s ročníkom, tak sa robia po starom zatiaľ
+- [x] TP IST PRO 3. ročník
+- [x] TP IST PRO 4. ročník
+- [x] TP IT DSA 3. ročník
+- [x] TP IT PRO 4. ročník
+- [ ] Vytlačenie a podpísanie TP - **Termín 1.9.2025**
+
+#### Nastavenie Edupage a ClassRooms
+
+- [ ] Nastavenie nových plánov v Edupage
+- [ ] Nastavenie ClassRooms
 
 
 
