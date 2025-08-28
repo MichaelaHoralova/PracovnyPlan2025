@@ -1,13 +1,15 @@
-# Nedokončené veci z predošlého školského roka
+# ==Nedokončené veci z predošlého školského roka==
 
-#### Rozdielové skúšky
-#### Opakovanie maturitnej skúšky
+#### ~~Rozdielové skúšky~~
+
+- [x] **26.8.2025** - Študenti uspel na výbornú - Rasťo papiere odovzdal
+#### ==Opakovanie maturitnej skúšky==
 
 # GDPT online test
 # Zahájenie školského roka
-#### Plány na školský rok 2025/2026
+#### ~~Plány na školský rok 2025/2026~~
 
-> [!Termín 22.8.2025]
+> [!success]
 > ###### **ŠkVP**
 
 - [x] **ŠkVP IST Programovanie**   
@@ -17,19 +19,24 @@
 [^1]: Vypracováva Danka Adamčeková
 [^2]: Vypracováva Jožko Dokoupil
 
-> [!Termín 27.8.2025]
+> [!success]
 > ###### **Tematické plány**
 - [x] Zistiť, ktoré mám robiť - tematické plány súvisia s ročníkom, tak sa robia po starom zatiaľ
 - [x] TP IST PRO 3. ročník
 - [x] TP IST PRO 4. ročník
 - [x] TP IT DSA 3. ročník
 - [x] TP IT PRO 4. ročník
-- [ ] Vytlačenie a podpísanie TP - **Termín 1.9.2025**
+- [x] Vytlačenie a podpísanie TP - **Termín 1.9.2025**
 
-#### Nastavenie Edupage a ClassRooms
+#### ~~Nastavenie Edupage a ClassRooms~~
 
-- [ ] Nastavenie nových plánov v Edupage
-- [ ] Nastavenie ClassRooms
+- [x] Nastavenie nových plánov v Edupage
+- [x] Nastavenie ClassRooms
+
+#### ~~Kontrola PC miestnos~~tí
+
+- [x] B319
+- [x] B321
 
 
 
