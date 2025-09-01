@@ -6,7 +6,7 @@
 #### ==Opakovanie maturitnej skúšky==
 
 # GDPT online test
-# Zahájenie školského roka
+# ==Zahájenie školského roka==
 #### ~~Plány na školský rok 2025/2026~~
 
 > [!success]
@@ -38,9 +38,15 @@
 - [x] B319
 - [x] B321
 
+#### Triedne veci na začiatku
 
+> [!warning]
+>  Dobra, Lališ nepodpísali info o školskom poriadku
 
-
-
-
-
+- [x] Poslať rodičom školský poriadok
+- [ ] Podpísať, že boli informovaní o školskom poriadku
+- [ ] Vyzbierať peniaze
+- [ ] Študentské preukazy
+	- [x] Rozdať
+	- [ ] Fotky
+	- [ ] Pečiatka
