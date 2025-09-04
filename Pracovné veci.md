@@ -5,7 +5,7 @@
 - [x] **26.8.2025** - Študenti uspel na výbornú - Rasťo papiere odovzdal
 #### ==Opakovanie maturitnej skúšky==
 
-# GDPT online test
+# ~~GDPT online test~~
 # ==Zahájenie školského roka==
 #### ~~Plány na školský rok 2025/2026~~
 
@@ -42,6 +42,7 @@
 
 > [!warning]
 >  Dobra, Lališ nepodpísali info o školskom poriadku
+>  Dobra nezaplatil 13Euro
 
 - [x] Poslať rodičom školský poriadok
 - [ ] Podpísať, že boli informovaní o školskom poriadku
