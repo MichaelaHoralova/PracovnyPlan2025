@@ -1,11 +1,11 @@
-# ==Nedokončené veci z predošlého školského roka==
+# ~~Nedokončené veci z predošlého školského roka~~
 
-#### ~~Rozdielové skúšky~~
+%% #### ~~Rozdielové skúšky~~
 
-- [x] **26.8.2025** - Študenti uspel na výbornú - Rasťo papiere odovzdal
-#### ==Opakovanie maturitnej skúšky==
+- [x] **26.8.2025** - Študenti uspel na výbornú - Rasťo papiere odovzdal %%
+#### ~~Opakovanie maturitnej skúšky~~
 
-# ~~GDPT online test~~
+#  ~~GDPT online test~~ 
 # ==Zahájenie školského roka==
 #### ~~Plány na školský rok 2025/2026~~
 
@@ -42,12 +42,50 @@
 
 > [!warning]
 >  Dobra, Lališ nepodpísali info o školskom poriadku
->  Dobra nezaplatil 13Euro
+>  Lališ - prevziať knihy, školský preukaz
+
 
 - [x] Poslať rodičom školský poriadok
-- [ ] Podpísať, že boli informovaní o školskom poriadku
-- [ ] Vyzbierať peniaze
+- [x] Podpísať, že boli informovaní o školskom poriadku
+- [x] Vyzbierať peniaze
+- [x] Krúžky
+	- [x] Vyzbierať vzdelávacie poukazy
+	- [x] Študenti vypísať krúžky
+	- [x] Poslať Lucii zoznam
 - [ ] Študentské preukazy
 	- [x] Rozdať
 	- [ ] Fotky
 	- [ ] Pečiatka
+
+
+# ZENIT
+
+- [ ] obísť triedy, kto by mal záujem
+
+> [!important]
+> Termín školského kola súťaže - 21. október 2025 (utorok)
+
+# Záverečné práce
+
+**Zoznam študentov**
+
+|      | Meno           | Téma        |
+| ---- | -------------- | ----------- |
+| 4.A  | Ďuriš Maroš    | SW          |
+| 4.A  | Kujniš Matej   | SW          |
+| 4.A  | Naňová Sofia   | WEB         |
+| 4.A  | Novák Miro     | Mobilná app |
+| 4.A  | Pivarči Patrik | WEB         |
+| 4.A  | Slovík Lukáš   | WEB         |
+| 4.A  | Strečko Tomáš  | WEB         |
+| 4.B  | Knoška         | Mobilná app |
+| 4.B  | Plavucha       | WEB         |
+| 4.B  | Šmeral         | SW          |
+| 4.IT | Žiačik         | WEB         |
+| 4.IT | Kojdiak        | WEB         |
+| 4.IT | Keľo           | WEB         |
+
+# Krúžky
+
+Janka Urbanská by mala poslať zoznamy študentov, ktorých potom zapíšem do triednej knihy
+Od Lucii zobrať triednu knihu
