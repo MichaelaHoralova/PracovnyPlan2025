@@ -6,7 +6,7 @@
 #### ~~Opakovanie maturitnej skúšky~~
 
 #  ~~GDPT online test~~ 
-# ==Zahájenie školského roka==
+# Zahájenie školského roka
 #### ~~Plány na školský rok 2025/2026~~
 
 > [!success]
@@ -38,12 +38,7 @@
 - [x] B319
 - [x] B321
 
-#### Triedne veci na začiatku
-
-> [!warning]
->  Dobra, Lališ nepodpísali info o školskom poriadku
->  Lališ - prevziať knihy, školský preukaz
-
+#### ~~Triedne veci na začiatku~~
 
 - [x] Poslať rodičom školský poriadok
 - [x] Podpísať, že boli informovaní o školskom poriadku
@@ -52,15 +47,19 @@
 	- [x] Vyzbierať vzdelávacie poukazy
 	- [x] Študenti vypísať krúžky
 	- [x] Poslať Lucii zoznam
-- [ ] Študentské preukazy
+- [x] Študentské preukazy
 	- [x] Rozdať
-	- [ ] Fotky
-	- [ ] Pečiatka
+	- [x] Fotky
 
 
 # ZENIT
 
-- [ ] obísť triedy, kto by mal záujem
+#### **Školské kolo**
+
+- [x] obísť triedy, kto by mal záujem
+- [ ] poslať dotazník ohľadom vlastných PC
+- [ ] zarezervovať miestnosti
+- [ ] vytvoriť udalosť
 
 > [!important]
 > Termín školského kola súťaže - 21. október 2025 (utorok)
@@ -81,11 +80,36 @@
 | 4.B  | Knoška         | Mobilná app |
 | 4.B  | Plavucha       | WEB         |
 | 4.B  | Šmeral         | SW          |
-| 4.IT | Žiačik         | WEB         |
+| 4.IT | Imrich         | WEB         |
 | 4.IT | Kojdiak        | WEB         |
 | 4.IT | Keľo           | WEB         |
-
+- [ ] Zozbierať ciele prác - do **14.10.2025**
+- [ ] Všetci študenti musia dať ciele na net - **15.10.205 - 16.10.2025**
+- [ ] Kontrola cieľov
 # Krúžky
 
 Janka Urbanská by mala poslať zoznamy študentov, ktorých potom zapíšem do triednej knihy
 Od Lucii zobrať triednu knihu
+
+# Triednictvo v priebehu roka
+
+> [!warning]
+> Dobra, Lališ nepodpísali info o školskom poriadku
+
+#### Rodičovské združenia
+- [ ] 1. rodičovské združenie - **16.10.2025**
+- [ ] 2. rodičovské združenie
+- [ ] 3. rodičovské združenie
+
+# STUŽKOVÁ
+
+- [x] Rodičia rezervujú menu a výzdobu
+- [x] Pozvanie učiteľov
+- [x] Poslať študentom priebeh stužkovej
+- [ ] Kúpiť študentom darček
+- [ ] Zostaviť video zo zdobenia dverí
+- [ ] Prejsť so študentami nástup
+- [ ] V deň stužkovej doniesť 2 krabice koláčikov
+- [ ] Stužková - **14.11.2025**
+
+
