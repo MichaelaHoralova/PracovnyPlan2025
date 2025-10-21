@@ -57,9 +57,10 @@
 #### **Školské kolo**
 
 - [x] obísť triedy, kto by mal záujem
-- [ ] poslať dotazník ohľadom vlastných PC
-- [ ] zarezervovať miestnosti
-- [ ] vytvoriť udalosť
+- [x] poslať dotazník ohľadom vlastných PC
+- [x] zarezervovať miestnosti
+- [x] vytvoriť udalosť
+- [ ] vyhodnotenie školského kola súťaže
 
 > [!important]
 > Termín školského kola súťaže - 21. október 2025 (utorok)
@@ -83,8 +84,8 @@
 | 4.IT | Imrich         | WEB         |
 | 4.IT | Kojdiak        | WEB         |
 | 4.IT | Keľo           | WEB         |
-- [ ] Zozbierať ciele prác - do **14.10.2025**
-- [ ] Všetci študenti musia dať ciele na net - **15.10.205 - 16.10.2025**
+- [x] Zozbierať ciele prác - do **14.10.2025**
+- [x] Všetci študenti musia dať ciele na net - **15.10.205 - 16.10.2025**
 - [ ] Kontrola cieľov
 # Krúžky
 
@@ -97,7 +98,7 @@ Od Lucii zobrať triednu knihu
 > Dobra, Lališ nepodpísali info o školskom poriadku
 
 #### Rodičovské združenia
-- [ ] 1. rodičovské združenie - **16.10.2025**
+- [x] 1. rodičovské združenie - **16.10.2025**
 - [ ] 2. rodičovské združenie
 - [ ] 3. rodičovské združenie
 
