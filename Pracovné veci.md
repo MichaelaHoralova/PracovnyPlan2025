@@ -86,7 +86,7 @@
 | 4.IT | Keľo           | WEB         |
 - [x] Zozbierať ciele prác - do **14.10.2025**
 - [x] Všetci študenti musia dať ciele na net - **15.10.205 - 16.10.2025**
-- [ ] Kontrola cieľov
+- [x] Kontrola cieľov
 # Krúžky
 
 Janka Urbanská by mala poslať zoznamy študentov, ktorých potom zapíšem do triednej knihy
@@ -107,7 +107,7 @@ Od Lucii zobrať triednu knihu
 - [x] Rodičia rezervujú menu a výzdobu
 - [x] Pozvanie učiteľov
 - [x] Poslať študentom priebeh stužkovej
-- [ ] Kúpiť študentom darček
+- [x] Kúpiť študentom darček
 - [ ] Zostaviť video zo zdobenia dverí
 - [ ] Prejsť so študentami nástup
 - [ ] V deň stužkovej doniesť 2 krabice koláčikov
