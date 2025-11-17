@@ -108,9 +108,9 @@ Od Lucii zobrať triednu knihu
 - [x] Pozvanie učiteľov
 - [x] Poslať študentom priebeh stužkovej
 - [x] Kúpiť študentom darček
-- [ ] Zostaviť video zo zdobenia dverí
-- [ ] Prejsť so študentami nástup
-- [ ] V deň stužkovej doniesť 2 krabice koláčikov
-- [ ] Stužková - **14.11.2025**
+- [x] Zostaviť video zo zdobenia dverí
+- [x] Prejsť so študentami nástup
+- [x] V deň stužkovej doniesť 2 krabice koláčikov
+- [x] Stužková - **14.11.2025**
 
 
